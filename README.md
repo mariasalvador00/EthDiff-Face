@@ -6,7 +6,7 @@ The goal of this work is to generate high-quality, demographically controlled sy
 
 ## Project Structure
 
-Here, we present the scripts used throughout this work. If you want to access the trained models and the encoded data, you can do so through https://drive.google.com/drive/folders/1h0qUyOW-AVu9t2rPhj4KUGxznMw4QD_L?usp=sharing
+Here, we present the scripts used throughout this work. If you want to access the trained models and the encoded synthetic data, you can do so through https://drive.google.com/drive/folders/1h0qUyOW-AVu9t2rPhj4KUGxznMw4QD_L?usp=sharing
 
 
 
