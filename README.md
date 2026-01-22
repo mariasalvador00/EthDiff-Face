@@ -14,9 +14,7 @@ Here, we present the scripts used throughout this work. If you want to access th
 
 The training script for each of the ethnicity specific IDiff-Face models is under main.py and the sampling script is under sample.py
 
-After sampling, the data is encoded using encode.py
-
-The genuine-imposter pairs are generated with evaluation/generate_pairs.py
+After sampling, the data is encoded using encode.py and the genuine-imposter pairs are generated with evaluation/generate_pairs.py
 
 
 
