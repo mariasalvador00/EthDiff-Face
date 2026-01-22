@@ -16,7 +16,7 @@ The training script for each of the ethnicity specific IDiff-Face models is unde
 
 After sampling, the data is encoded using encode.py
 
-The genuine-imposter pairs are generated with generate_pairs.py
+The genuine-imposter pairs are generated with evaluation/generate_pairs.py
 
 
 
